@@ -2,3 +2,6 @@
  1 file changed, 1 insertion(+)
  create mode 100644 libros/quijote.txt
 Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda.
+[main c61f3d1] Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda.
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+El resto della concluían sayo de velarte, calzas de velludo para las fiestas con sus pantuflos de lo mismo, y los días de entresemana se honraba con su vellori de lo más fino
